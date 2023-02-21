@@ -1,0 +1,5 @@
+- [x] [The Emperor's Old Clothes, The 1980 ACM Turing Award Lecture, C. A. R. Hoare](https://www.cs.fsu.edu/~engelen/courses/COP4610/hoare.pdf)
+- [ ] [Assigning Meaning to Programs, Robert W. Floyd](https://people.eecs.berkeley.edu/~necula/Papers/FloydMeaning.pdf)
+- [ ] [An Axiomatic Basis for Computer Programming, C. A. R. Hoare](https://dl.acm.org/doi/pdf/10.1145/363235.363259)
+- [ ] [Reflections on Trusting Trust, Turing Award Lecture, Ken Thomspon](https://www.jmeiners.com/efficient-programming-with-components/papers/trusting-trust-thompson.pdf)
+- [ ] [A contribution to the development of ALGOL, N. Wirth, C. A. R Hoare](https://dl.acm.org/doi/pdf/10.5555/63445.C1104358)
