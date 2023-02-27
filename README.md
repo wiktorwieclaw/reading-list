@@ -8,6 +8,7 @@
 - [x] [An Axiomatic Basis for Computer Programming, C. A. R. Hoare](https://dl.acm.org/doi/pdf/10.1145/363235.363259)
 - [ ] [A contribution to the development of ALGOL, N. Wirth, C. A. R Hoare](https://dl.acm.org/doi/pdf/10.5555/63445.C1104358)
 - [ ] [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
+- [ ] [Communicating Sequential Processes, C. A. R Hoare](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
 
 # Manuscripts
 - [ ] [Edsger W. Dijkstra](https://www.cs.utexas.edu/users/EWD/)
