@@ -5,7 +5,7 @@
 
 # Papers
 - [ ] [Assigning Meaning to Programs, Robert W. Floyd](https://people.eecs.berkeley.edu/~necula/Papers/FloydMeaning.pdf)
-- [ ] [An Axiomatic Basis for Computer Programming, C. A. R. Hoare](https://dl.acm.org/doi/pdf/10.1145/363235.363259)
+- [x] [An Axiomatic Basis for Computer Programming, C. A. R. Hoare](https://dl.acm.org/doi/pdf/10.1145/363235.363259)
 - [ ] [A contribution to the development of ALGOL, N. Wirth, C. A. R Hoare](https://dl.acm.org/doi/pdf/10.5555/63445.C1104358)
 - [ ] [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 
