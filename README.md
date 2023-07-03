@@ -19,3 +19,6 @@
 # Books
 - [ ] _Computation: finite and infinite machines_, Marvin L. Minsky
 - [ ] _The Art of Computer Programming_, Donald Knuth
+
+# Blogs
+- [ ] https://os.phil-opp.com/minimal-rust-kernel/
