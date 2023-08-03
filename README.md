@@ -19,6 +19,8 @@
 # Books
 - [ ] _Computation: finite and infinite machines_, Marvin L. Minsky
 - [ ] _The Art of Computer Programming_, Donald Knuth
+- [ ] _Blood, Sweat and Pixels_, Jason Schreier
+- [ ] _Game Programming Patterns_, Robert Nystrom
 
 # Blogs
 - [ ] https://os.phil-opp.com/minimal-rust-kernel/
