@@ -21,6 +21,7 @@
 - [ ] _The Art of Computer Programming_, Donald Knuth
 - [ ] _Blood, Sweat and Pixels_, Jason Schreier
 - [ ] _Game Programming Patterns_, Robert Nystrom
+- [ ] _The Mythical Man Month: Essays on Software Engineering_, Frederick P. Brooks Jr.
 
 # Blogs
 - [ ] https://os.phil-opp.com/minimal-rust-kernel/
